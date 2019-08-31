@@ -1,0 +1,26 @@
+
+    {
+        "WELCOME": "Welcome",
+        "APP_RUNNING": "{{value}} app is running!",
+        "RESOURCES": "Resources",
+        "RESOURCES_DESRIPTION": "Here are some links to help you get started:",
+        "LEARN_ANGULAR": "Learn Angular",
+        "CLI_DOCUMENTATION": "CLI Documentation",
+        "ANGULAR_BLOG": "Angular Blogг",
+        "NEXT_STEPS": "Next Steps",
+        "NEXT_STEPS_DESCRIPTION": "What do you want to do next with your app?",
+        "NEW_COMPONENT": "New Component",
+        "ANGULAR_MATERIAL": "Angular Material",
+        "ADD_DEPENDENCY": "Add Dependency",
+        "RUN_TESTS": "Run and Watch Testsи",
+        "BUILD_FOR_PRODUCTION": "Build for Production",
+        "ANIMATIONS": "Animations",
+        "AUGURY": "Augury",
+        "PROTRACTOR": "Protractor",
+        "FIND_MEETUP": "Find a Local Meetup",
+        "GITTER": "Join the Conversation on Gitter",
+        "LOVE_ANGULAR": "Love Angular? ",
+        "GIVE_A_STAR.": "Give our repo a star.",
+        "STAR": "Star",
+        "GRAY_CLOUDS_BACKGROUND": "Gray Clouds Background"
+    }
